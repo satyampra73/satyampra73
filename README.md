@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @satyampra73
 - 👀 I’m interested in java Programming language,kotlin programming language,ANDROID DEVELOPMENT,Flutter Development.
 - 🌱 I’m currently learning ANDROID DEVELOPMENT
-- 💞️ I’m looking to collaborate on Java Projects,Native(Java/Kotlin) Android Projects.
+- 💞️ I’m looking to collaborate on Java Projects,Native(Java/Kotlin) Android Projects and Flutter Projects.
 
 
 <!---
