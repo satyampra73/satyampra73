@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Satyam Prajapati
-- 👀 I’m interested in java Programming language,kotlin programming language,ANDROID DEVELOPMENT,Flutter Development and ReactJs.
+- 👀 I’m interested in java Programming language,kotlin programming language,ANDROID DEVELOPMENT,Flutter Development.
 - 🌱 I’m currently working on ANDROID DEVELOPMENT
 - 💞️ I’m looking to collaborate on Java Projects,Native(Java/Kotlin) Android Projects and Flutter Projects.
 
